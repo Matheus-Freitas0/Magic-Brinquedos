@@ -11,7 +11,6 @@ import {
   Chip,
   Rating,
 } from "@mui/material";
-import { motion } from "framer-motion";
 import WhatsAppIcon from "@mui/icons-material/WhatsApp";
 import TrendingUpIcon from "@mui/icons-material/TrendingUp";
 
